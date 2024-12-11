@@ -19,10 +19,10 @@ require (
 	github.com/stretchr/objx v0.5.2 // indirect
 	github.com/stretchr/testify v1.9.0
 	github.com/wayneashleyberry/terminal-dimensions v1.1.0
-	golang.org/x/crypto v0.21.0 // indirect
+	golang.org/x/crypto v0.31.0 // indirect
 	golang.org/x/image v0.18.0
-	golang.org/x/sys v0.20.0
-	golang.org/x/text v0.16.0
+	golang.org/x/sys v0.28.0
+	golang.org/x/text v0.21.0
 	gopkg.in/ini.v1 v1.67.0
 )
 
@@ -87,8 +87,8 @@ require (
 	github.com/shopspring/decimal v1.3.1 // indirect
 	github.com/yusufpapurcu/wmi v1.2.4 // indirect
 	github.com/zclconf/go-cty v1.14.3 // indirect
-	golang.org/x/sync v0.7.0 // indirect
-	golang.org/x/term v0.18.0 // indirect
+	golang.org/x/sync v0.10.0 // indirect
+	golang.org/x/term v0.27.0 // indirect
 	golang.org/x/tools v0.21.1-0.20240508182429-e35e4ccd0d2d // indirect
 	golang.org/x/xerrors v0.0.0-20231012003039-104605ab7028 // indirect
 )
